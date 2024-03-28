@@ -183,8 +183,8 @@ const DLogin = () => {
             <img src={admin} alt="profile" />
           </div>
           <div>
-            <p>ID - Techknowthon</p>
-            <p>Password - Kanyarasi</p>
+            <p>ID - 100</p>
+            <p>Password - masai</p>
             <form onSubmit={HandleSubmit}>
               <h3>{placement} ID</h3>
               <input
